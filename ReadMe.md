@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- TZA
 - Tanzania
 - United Republic of Tanzania
 - República Unida de Tanzanía
