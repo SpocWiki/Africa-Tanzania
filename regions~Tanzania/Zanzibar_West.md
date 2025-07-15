@@ -40,11 +40,18 @@ markerFolder: ./Zanzibar_West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West|Zanzibar_West]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.public|Zanzibar_West.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.internal|Zanzibar_West.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.protect|Zanzibar_West.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.private|Zanzibar_West.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.personal|Zanzibar_West.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Zanzibar_West.secret|Zanzibar_West.secret]] 
+
+### #is_/same_as :: [Zanzibar_West](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_West.md) 
+
+### #is_/same_as :: [Zanzibar_West.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_West.public.md) 
+
+### #is_/same_as :: [Zanzibar_West.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_West.internal.md) 
+
+### #is_/same_as :: [Zanzibar_West.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_West.protect.md) 
+
+### #is_/same_as :: [Zanzibar_West.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_West.private.md) 
+
+### #is_/same_as :: [Zanzibar_West.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_West.personal.md) 
+
+### #is_/same_as :: [Zanzibar_West.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_West.secret.md)
 

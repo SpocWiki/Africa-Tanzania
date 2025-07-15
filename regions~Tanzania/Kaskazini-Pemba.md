@@ -40,11 +40,18 @@ markerFolder: ./Kaskazini-Pemba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba|Kaskazini-Pemba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.public|Kaskazini-Pemba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.internal|Kaskazini-Pemba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.protect|Kaskazini-Pemba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.private|Kaskazini-Pemba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.personal|Kaskazini-Pemba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Pemba.secret|Kaskazini-Pemba.secret]] 
+
+### #is_/same_as :: [Kaskazini-Pemba](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.md) 
+
+### #is_/same_as :: [Kaskazini-Pemba.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.public.md) 
+
+### #is_/same_as :: [Kaskazini-Pemba.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.internal.md) 
+
+### #is_/same_as :: [Kaskazini-Pemba.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.protect.md) 
+
+### #is_/same_as :: [Kaskazini-Pemba.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.private.md) 
+
+### #is_/same_as :: [Kaskazini-Pemba.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.personal.md) 
+
+### #is_/same_as :: [Kaskazini-Pemba.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.secret.md)
 

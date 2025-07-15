@@ -40,11 +40,18 @@ markerFolder: ./Mbeya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Mbeya|Mbeya]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mbeya.public|Mbeya.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mbeya.internal|Mbeya.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mbeya.protect|Mbeya.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mbeya.private|Mbeya.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mbeya.personal|Mbeya.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mbeya.secret|Mbeya.secret]] 
+
+### #is_/same_as :: [Mbeya](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mbeya.md) 
+
+### #is_/same_as :: [Mbeya.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mbeya.public.md) 
+
+### #is_/same_as :: [Mbeya.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mbeya.internal.md) 
+
+### #is_/same_as :: [Mbeya.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mbeya.protect.md) 
+
+### #is_/same_as :: [Mbeya.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mbeya.private.md) 
+
+### #is_/same_as :: [Mbeya.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mbeya.personal.md) 
+
+### #is_/same_as :: [Mbeya.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mbeya.secret.md)
 

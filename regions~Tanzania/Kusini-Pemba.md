@@ -40,11 +40,18 @@ markerFolder: ./Kusini-Pemba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba|Kusini-Pemba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.public|Kusini-Pemba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.internal|Kusini-Pemba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.protect|Kusini-Pemba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.private|Kusini-Pemba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.personal|Kusini-Pemba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kusini-Pemba.secret|Kusini-Pemba.secret]] 
+
+### #is_/same_as :: [Kusini-Pemba](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kusini-Pemba.md) 
+
+### #is_/same_as :: [Kusini-Pemba.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kusini-Pemba.public.md) 
+
+### #is_/same_as :: [Kusini-Pemba.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kusini-Pemba.internal.md) 
+
+### #is_/same_as :: [Kusini-Pemba.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kusini-Pemba.protect.md) 
+
+### #is_/same_as :: [Kusini-Pemba.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kusini-Pemba.private.md) 
+
+### #is_/same_as :: [Kusini-Pemba.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kusini-Pemba.personal.md) 
+
+### #is_/same_as :: [Kusini-Pemba.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kusini-Pemba.secret.md)
 

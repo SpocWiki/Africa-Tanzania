@@ -40,11 +40,18 @@ markerFolder: ./Kigoma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Kigoma|Kigoma]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kigoma.public|Kigoma.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kigoma.internal|Kigoma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kigoma.protect|Kigoma.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kigoma.private|Kigoma.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kigoma.personal|Kigoma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kigoma.secret|Kigoma.secret]] 
+
+### #is_/same_as :: [Kigoma](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.md) 
+
+### #is_/same_as :: [Kigoma.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.public.md) 
+
+### #is_/same_as :: [Kigoma.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.internal.md) 
+
+### #is_/same_as :: [Kigoma.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.protect.md) 
+
+### #is_/same_as :: [Kigoma.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.private.md) 
+
+### #is_/same_as :: [Kigoma.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.personal.md) 
+
+### #is_/same_as :: [Kigoma.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.secret.md)
 

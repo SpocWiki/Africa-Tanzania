@@ -40,11 +40,18 @@ markerFolder: ./Pwani/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Pwani|Pwani]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Pwani.public|Pwani.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Pwani.internal|Pwani.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Pwani.protect|Pwani.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Pwani.private|Pwani.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Pwani.personal|Pwani.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Pwani.secret|Pwani.secret]] 
+
+### #is_/same_as :: [Pwani](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Pwani.md) 
+
+### #is_/same_as :: [Pwani.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Pwani.public.md) 
+
+### #is_/same_as :: [Pwani.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Pwani.internal.md) 
+
+### #is_/same_as :: [Pwani.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Pwani.protect.md) 
+
+### #is_/same_as :: [Pwani.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Pwani.private.md) 
+
+### #is_/same_as :: [Pwani.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Pwani.personal.md) 
+
+### #is_/same_as :: [Pwani.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Pwani.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Lindi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Lindi|Lindi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Lindi.public|Lindi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Lindi.internal|Lindi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Lindi.protect|Lindi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Lindi.private|Lindi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Lindi.personal|Lindi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Lindi.secret|Lindi.secret]] 
+
+### #is_/same_as :: [Lindi](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Lindi.md) 
+
+### #is_/same_as :: [Lindi.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Lindi.public.md) 
+
+### #is_/same_as :: [Lindi.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Lindi.internal.md) 
+
+### #is_/same_as :: [Lindi.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Lindi.protect.md) 
+
+### #is_/same_as :: [Lindi.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Lindi.private.md) 
+
+### #is_/same_as :: [Lindi.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Lindi.personal.md) 
+
+### #is_/same_as :: [Lindi.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Lindi.secret.md)
 

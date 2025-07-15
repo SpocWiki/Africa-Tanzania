@@ -40,11 +40,18 @@ markerFolder: ./Morogoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Morogoro|Morogoro]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Morogoro.public|Morogoro.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Morogoro.internal|Morogoro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Morogoro.protect|Morogoro.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Morogoro.private|Morogoro.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Morogoro.personal|Morogoro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Morogoro.secret|Morogoro.secret]] 
+
+### #is_/same_as :: [Morogoro](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro.md) 
+
+### #is_/same_as :: [Morogoro.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro.public.md) 
+
+### #is_/same_as :: [Morogoro.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro.internal.md) 
+
+### #is_/same_as :: [Morogoro.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro.protect.md) 
+
+### #is_/same_as :: [Morogoro.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro.private.md) 
+
+### #is_/same_as :: [Morogoro.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro.personal.md) 
+
+### #is_/same_as :: [Morogoro.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro.secret.md)
 

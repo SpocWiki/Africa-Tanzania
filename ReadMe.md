@@ -136,10 +136,4 @@ Capital :: [[Dodoma]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Tanzania|Tanzania]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Tanzania.internal|Tanzania.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Tanzania.protect|Tanzania.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Tanzania.private|Tanzania.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Tanzania.personal|Tanzania.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Tanzania.secret|Tanzania.secret]] 
+

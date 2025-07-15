@@ -40,11 +40,18 @@ markerFolder: ./Zanzibar_South_and_Central/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central|Zanzibar_South_and_Central]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.public|Zanzibar_South_and_Central.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.internal|Zanzibar_South_and_Central.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.protect|Zanzibar_South_and_Central.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.private|Zanzibar_South_and_Central.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.personal|Zanzibar_South_and_Central.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Zanzibar_South_and_Central.secret|Zanzibar_South_and_Central.secret]] 
+
+### #is_/same_as :: [Zanzibar_South_and_Central](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_South_and_Central.md) 
+
+### #is_/same_as :: [Zanzibar_South_and_Central.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_South_and_Central.public.md) 
+
+### #is_/same_as :: [Zanzibar_South_and_Central.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_South_and_Central.internal.md) 
+
+### #is_/same_as :: [Zanzibar_South_and_Central.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_South_and_Central.protect.md) 
+
+### #is_/same_as :: [Zanzibar_South_and_Central.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_South_and_Central.private.md) 
+
+### #is_/same_as :: [Zanzibar_South_and_Central.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_South_and_Central.personal.md) 
+
+### #is_/same_as :: [Zanzibar_South_and_Central.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Zanzibar_South_and_Central.secret.md)
 

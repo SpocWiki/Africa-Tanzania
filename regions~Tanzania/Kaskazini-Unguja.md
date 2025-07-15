@@ -40,11 +40,18 @@ markerFolder: ./Kaskazini-Unguja/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja|Kaskazini-Unguja]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.public|Kaskazini-Unguja.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.internal|Kaskazini-Unguja.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.protect|Kaskazini-Unguja.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.private|Kaskazini-Unguja.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.personal|Kaskazini-Unguja.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kaskazini-Unguja.secret|Kaskazini-Unguja.secret]] 
+
+### #is_/same_as :: [Kaskazini-Unguja](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.md) 
+
+### #is_/same_as :: [Kaskazini-Unguja.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.public.md) 
+
+### #is_/same_as :: [Kaskazini-Unguja.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.internal.md) 
+
+### #is_/same_as :: [Kaskazini-Unguja.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.protect.md) 
+
+### #is_/same_as :: [Kaskazini-Unguja.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.private.md) 
+
+### #is_/same_as :: [Kaskazini-Unguja.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.personal.md) 
+
+### #is_/same_as :: [Kaskazini-Unguja.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.secret.md)
 

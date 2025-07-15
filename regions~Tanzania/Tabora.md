@@ -40,11 +40,18 @@ markerFolder: ./Tabora/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Tabora|Tabora]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Tabora.public|Tabora.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Tabora.internal|Tabora.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Tabora.protect|Tabora.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Tabora.private|Tabora.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Tabora.personal|Tabora.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Tabora.secret|Tabora.secret]] 
+
+### #is_/same_as :: [Tabora](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.md) 
+
+### #is_/same_as :: [Tabora.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.public.md) 
+
+### #is_/same_as :: [Tabora.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.internal.md) 
+
+### #is_/same_as :: [Tabora.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.protect.md) 
+
+### #is_/same_as :: [Tabora.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.private.md) 
+
+### #is_/same_as :: [Tabora.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.personal.md) 
+
+### #is_/same_as :: [Tabora.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.secret.md)
 

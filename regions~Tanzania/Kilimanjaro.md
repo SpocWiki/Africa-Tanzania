@@ -40,11 +40,18 @@ markerFolder: ./Kilimanjaro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro|Kilimanjaro]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.public|Kilimanjaro.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.internal|Kilimanjaro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.protect|Kilimanjaro.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.private|Kilimanjaro.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.personal|Kilimanjaro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Kilimanjaro.secret|Kilimanjaro.secret]] 
+
+### #is_/same_as :: [Kilimanjaro](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kilimanjaro.md) 
+
+### #is_/same_as :: [Kilimanjaro.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kilimanjaro.public.md) 
+
+### #is_/same_as :: [Kilimanjaro.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kilimanjaro.internal.md) 
+
+### #is_/same_as :: [Kilimanjaro.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kilimanjaro.protect.md) 
+
+### #is_/same_as :: [Kilimanjaro.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kilimanjaro.private.md) 
+
+### #is_/same_as :: [Kilimanjaro.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kilimanjaro.personal.md) 
+
+### #is_/same_as :: [Kilimanjaro.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kilimanjaro.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Dar-Es-Salaam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam|Dar-Es-Salaam]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.public|Dar-Es-Salaam.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.internal|Dar-Es-Salaam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.protect|Dar-Es-Salaam.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.private|Dar-Es-Salaam.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.personal|Dar-Es-Salaam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Dar-Es-Salaam.secret|Dar-Es-Salaam.secret]] 
+
+### #is_/same_as :: [Dar_es_Salaam](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dar_es_Salaam.md) 
+
+### #is_/same_as :: [Dar_es_Salaam.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dar_es_Salaam.public.md) 
+
+### #is_/same_as :: [Dar_es_Salaam.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dar_es_Salaam.internal.md) 
+
+### #is_/same_as :: [Dar_es_Salaam.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dar_es_Salaam.protect.md) 
+
+### #is_/same_as :: [Dar_es_Salaam.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dar_es_Salaam.private.md) 
+
+### #is_/same_as :: [Dar_es_Salaam.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dar_es_Salaam.personal.md) 
+
+### #is_/same_as :: [Dar_es_Salaam.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dar_es_Salaam.secret.md)
 

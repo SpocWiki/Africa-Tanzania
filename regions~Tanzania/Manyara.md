@@ -40,11 +40,18 @@ markerFolder: ./Manyara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Manyara|Manyara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Manyara.public|Manyara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Manyara.internal|Manyara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Manyara.protect|Manyara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Manyara.private|Manyara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Manyara.personal|Manyara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Manyara.secret|Manyara.secret]] 
+
+### #is_/same_as :: [Manyara](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Manyara.md) 
+
+### #is_/same_as :: [Manyara.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Manyara.public.md) 
+
+### #is_/same_as :: [Manyara.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Manyara.internal.md) 
+
+### #is_/same_as :: [Manyara.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Manyara.protect.md) 
+
+### #is_/same_as :: [Manyara.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Manyara.private.md) 
+
+### #is_/same_as :: [Manyara.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Manyara.personal.md) 
+
+### #is_/same_as :: [Manyara.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Manyara.secret.md)
 

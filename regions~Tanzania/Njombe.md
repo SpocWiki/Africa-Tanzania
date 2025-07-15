@@ -40,11 +40,18 @@ markerFolder: ./Njombe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Njombe|Njombe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Njombe.public|Njombe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Njombe.internal|Njombe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Njombe.protect|Njombe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Njombe.private|Njombe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Njombe.personal|Njombe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Njombe.secret|Njombe.secret]] 
+
+### #is_/same_as :: [Njombe](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Njombe.md) 
+
+### #is_/same_as :: [Njombe.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Njombe.public.md) 
+
+### #is_/same_as :: [Njombe.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Njombe.internal.md) 
+
+### #is_/same_as :: [Njombe.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Njombe.protect.md) 
+
+### #is_/same_as :: [Njombe.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Njombe.private.md) 
+
+### #is_/same_as :: [Njombe.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Njombe.personal.md) 
+
+### #is_/same_as :: [Njombe.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Njombe.secret.md)
 

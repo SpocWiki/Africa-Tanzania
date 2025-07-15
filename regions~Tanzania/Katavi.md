@@ -40,11 +40,18 @@ markerFolder: ./Katavi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Katavi|Katavi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Katavi.public|Katavi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Katavi.internal|Katavi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Katavi.protect|Katavi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Katavi.private|Katavi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Katavi.personal|Katavi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Katavi.secret|Katavi.secret]] 
+
+### #is_/same_as :: [Katavi](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Katavi.md) 
+
+### #is_/same_as :: [Katavi.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Katavi.public.md) 
+
+### #is_/same_as :: [Katavi.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Katavi.internal.md) 
+
+### #is_/same_as :: [Katavi.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Katavi.protect.md) 
+
+### #is_/same_as :: [Katavi.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Katavi.private.md) 
+
+### #is_/same_as :: [Katavi.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Katavi.personal.md) 
+
+### #is_/same_as :: [Katavi.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Katavi.secret.md)
 

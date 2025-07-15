@@ -40,11 +40,18 @@ markerFolder: ./Mtwara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Mtwara|Mtwara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mtwara.public|Mtwara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mtwara.internal|Mtwara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mtwara.protect|Mtwara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mtwara.private|Mtwara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mtwara.personal|Mtwara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mtwara.secret|Mtwara.secret]] 
+
+### #is_/same_as :: [Mtwara](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mtwara.md) 
+
+### #is_/same_as :: [Mtwara.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mtwara.public.md) 
+
+### #is_/same_as :: [Mtwara.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mtwara.internal.md) 
+
+### #is_/same_as :: [Mtwara.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mtwara.protect.md) 
+
+### #is_/same_as :: [Mtwara.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mtwara.private.md) 
+
+### #is_/same_as :: [Mtwara.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mtwara.personal.md) 
+
+### #is_/same_as :: [Mtwara.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mtwara.secret.md)
 

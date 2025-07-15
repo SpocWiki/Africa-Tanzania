@@ -40,11 +40,18 @@ markerFolder: ./Rukwa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Rukwa|Rukwa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Rukwa.public|Rukwa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Rukwa.internal|Rukwa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Rukwa.protect|Rukwa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Rukwa.private|Rukwa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Rukwa.personal|Rukwa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Rukwa.secret|Rukwa.secret]] 
+
+### #is_/same_as :: [Rukwa](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Rukwa.md) 
+
+### #is_/same_as :: [Rukwa.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Rukwa.public.md) 
+
+### #is_/same_as :: [Rukwa.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Rukwa.internal.md) 
+
+### #is_/same_as :: [Rukwa.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Rukwa.protect.md) 
+
+### #is_/same_as :: [Rukwa.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Rukwa.private.md) 
+
+### #is_/same_as :: [Rukwa.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Rukwa.personal.md) 
+
+### #is_/same_as :: [Rukwa.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Rukwa.secret.md)
 

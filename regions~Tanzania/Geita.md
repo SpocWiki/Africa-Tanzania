@@ -40,11 +40,18 @@ markerFolder: ./Geita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Geita|Geita]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Geita.public|Geita.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Geita.internal|Geita.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Geita.protect|Geita.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Geita.private|Geita.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Geita.personal|Geita.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Geita.secret|Geita.secret]] 
+
+### #is_/same_as :: [Geita](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Geita.md) 
+
+### #is_/same_as :: [Geita.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Geita.public.md) 
+
+### #is_/same_as :: [Geita.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Geita.internal.md) 
+
+### #is_/same_as :: [Geita.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Geita.protect.md) 
+
+### #is_/same_as :: [Geita.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Geita.private.md) 
+
+### #is_/same_as :: [Geita.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Geita.personal.md) 
+
+### #is_/same_as :: [Geita.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Geita.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Mara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Mara|Mara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Mara.public|Mara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Mara.internal|Mara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Mara.protect|Mara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Mara.private|Mara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Mara.personal|Mara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Mara.secret|Mara.secret]] 
+
+### #is_/same_as :: [Mara](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mara.md) 
+
+### #is_/same_as :: [Mara.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mara.public.md) 
+
+### #is_/same_as :: [Mara.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mara.internal.md) 
+
+### #is_/same_as :: [Mara.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mara.protect.md) 
+
+### #is_/same_as :: [Mara.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mara.private.md) 
+
+### #is_/same_as :: [Mara.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mara.personal.md) 
+
+### #is_/same_as :: [Mara.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mara.secret.md)
 

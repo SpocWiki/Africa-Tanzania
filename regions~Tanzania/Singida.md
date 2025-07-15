@@ -40,11 +40,18 @@ markerFolder: ./Singida/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Singida|Singida]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Singida.public|Singida.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Singida.internal|Singida.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Singida.protect|Singida.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Singida.private|Singida.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Singida.personal|Singida.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Singida.secret|Singida.secret]] 
+
+### #is_/same_as :: [Singida](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Singida.md) 
+
+### #is_/same_as :: [Singida.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Singida.public.md) 
+
+### #is_/same_as :: [Singida.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Singida.internal.md) 
+
+### #is_/same_as :: [Singida.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Singida.protect.md) 
+
+### #is_/same_as :: [Singida.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Singida.private.md) 
+
+### #is_/same_as :: [Singida.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Singida.personal.md) 
+
+### #is_/same_as :: [Singida.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Singida.secret.md)
 

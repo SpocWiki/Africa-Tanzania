@@ -40,11 +40,18 @@ markerFolder: ./Tanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Tanga|Tanga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Tanga.public|Tanga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Tanga.internal|Tanga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Tanga.protect|Tanga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Tanga.private|Tanga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Tanga.personal|Tanga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Tanga.secret|Tanga.secret]] 
+
+### #is_/same_as :: [Tanga](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tanga.md) 
+
+### #is_/same_as :: [Tanga.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tanga.public.md) 
+
+### #is_/same_as :: [Tanga.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tanga.internal.md) 
+
+### #is_/same_as :: [Tanga.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tanga.protect.md) 
+
+### #is_/same_as :: [Tanga.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tanga.private.md) 
+
+### #is_/same_as :: [Tanga.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tanga.personal.md) 
+
+### #is_/same_as :: [Tanga.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tanga.secret.md)
 

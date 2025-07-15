@@ -40,11 +40,18 @@ markerFolder: ./Iringa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tanzania/Counties/Iringa|Iringa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tanzania/Counties/Iringa.public|Iringa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tanzania/Counties/Iringa.internal|Iringa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tanzania/Counties/Iringa.protect|Iringa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tanzania/Counties/Iringa.private|Iringa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tanzania/Counties/Iringa.personal|Iringa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tanzania/Counties/Iringa.secret|Iringa.secret]] 
+
+### #is_/same_as :: [Iringa](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Iringa.md) 
+
+### #is_/same_as :: [Iringa.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Iringa.public.md) 
+
+### #is_/same_as :: [Iringa.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Iringa.internal.md) 
+
+### #is_/same_as :: [Iringa.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Iringa.protect.md) 
+
+### #is_/same_as :: [Iringa.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Iringa.private.md) 
+
+### #is_/same_as :: [Iringa.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Iringa.personal.md) 
+
+### #is_/same_as :: [Iringa.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Iringa.secret.md)
 
