@@ -63,7 +63,7 @@ coordinate_location: Point(39.3 -5.9)
 
 [ISO2::]
 [ISO3::]
-
+#is_/same_as :: [[WD~Zanzibar,1774]] 
 
 ```leaflet
 id: Zanzibar

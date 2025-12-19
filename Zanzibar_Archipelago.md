@@ -3,6 +3,7 @@ aliases:
   - Zanzibar Archipelago
   - Funguvisiwa la Zanzibar
   - أرخبيل زنجبار
+  - Spice Islands
 has_id_wikidata: Q706541
 has_part_s_:
   - "[[_Standards/WikiData/WD~Pemba_Island,208664]]"
@@ -38,7 +39,7 @@ coordinate_location: Point(39.54529 -5.64332)
 
 # [[Zanzibar_Archipelago]] 
 
-#is_/same_as :: [[WD~Zanzibar_Archipelago,706541]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Zanzibar_Archipelago,706541|WD~Zanzibar_Archipelago,706541]] 
 
 ## #has_/text_of_/abstract 
 
@@ -46,9 +47,16 @@ coordinate_location: Point(39.54529 -5.64332)
 > is a group of  islands off the coast of mainland Tanzania in the sea of Zanj. 
 > The archipelago is also known as the Spice Islands. 
 >
-> There are three main islands with permanent human settlements, Zanzibar island, Pemba island, and Mafia island. There is also a fourth coral island, Latham island, that serves as an essential breeding ground for seabirds. There are also a number of smaller islets that surround these islands.
+> There are three main islands with permanent human settlements, 
+> Zanzibar island, Pemba island, and Mafia island. 
+> 
+> There is also a fourth coral island, Latham island, 
+> that serves as an essential breeding ground for seabirds. 
+> There are also a number of smaller islets that surround these islands.
 >
-> Most of the archipelago belongs to the Zanzibar semi-autonomous zones of Tanzania, while the neighboring Mafia Archipelago and its associated islets are parts of the Pwani Region on the Tanzanian mainland.
+> Most of the archipelago belongs to the Zanzibar semi-autonomous zones of Tanzania, 
+> while the neighboring Mafia Archipelago and its associated islets 
+> are parts of the Pwani Region on the Tanzanian mainland.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zanzibar%20Archipelago) 
 
