@@ -2,6 +2,15 @@
 aliases:
   - Unguja
 has_id_wikidata: Q1774
+confidential: public
+isDeleted: false
+location:
+- -6.13333
+- 39.3167
+SpocWebEntityId: 76703
+tags:
+- geo/Country
+type: Country
 instance_of:
   - "[[_Standards/WikiData/WD~federated_state,107390]]"
   - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
@@ -52,6 +61,33 @@ coordinate_location: Point(39.3 -5.9)
 
 # [[Zanzibar]] 
 
+[ISO2::]
+[ISO3::]
+
+
+```leaflet
+id: Zanzibar
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Zanzibar/
+markerFolder: ./Zanzibar/
+```
+
+[name-en::Zanzibar]
+[name-de::Sansibar]
+[Area-Total::]
+[Area-Land::]
+has_place_continent:: [[Africa]]  
+[VehicleCode::]
+[Capital-Id::]
+[Alcohol-l::]
+[Language-Id::]
+#is_a_/Place  
+#is_a_ :: [[../../../Geography/Place]] 
+[has_place_longitude::39.3167]
+[has_place_latitude::-6.13333]
+
 #is_/same_as :: [[WD~Zanzibar,1774]] 
 
 ## #has_/text_of_/abstract 
@@ -71,4 +107,21 @@ coordinate_location: Point(39.3 -5.9)
 > Zanzibar's marine ecosystem plays a vital role in its fishing and algacultural industries; these ecosystems act as nurseries for Indian Ocean fish populations. Moreover, the land ecosystem is the home of the endemic Zanzibar red colobus, the Zanzibar servaline genet, and the extinct or rare Zanzibar leopard. Environmental pressure from the tourism and fishing industries, as well as larger threats such as sea level rise caused by climate change, are creating increasing environmental concerns throughout the region.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zanzibar) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zanzibar](/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar.md) 
+
+### #is_/same_as :: [Zanzibar.public](/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public.md) 
+
+### #is_/same_as :: [Zanzibar.internal](/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal.md) 
+
+### #is_/same_as :: [Zanzibar.protect](/_protect/Earth/Continent/Africa/Africa~East/Zanzibar.protect.md) 
+
+### #is_/same_as :: [Zanzibar.private](/_private/Earth/Continent/Africa/Africa~East/Zanzibar.private.md) 
+
+### #is_/same_as :: [Zanzibar.personal](/_personal/Earth/Continent/Africa/Africa~East/Zanzibar.personal.md) 
+
+### #is_/same_as :: [Zanzibar.secret](/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret.md)
 
