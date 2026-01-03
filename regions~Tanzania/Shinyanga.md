@@ -40,17 +40,17 @@ markerFolder: ./Shinyanga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shinyanga](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga|Shinyanga]] 
 
-### #is_/same_as :: [Shinyanga.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.public|Shinyanga.public]] 
 
-### #is_/same_as :: [Shinyanga.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.internal|Shinyanga.internal]] 
 
-### #is_/same_as :: [Shinyanga.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.protect|Shinyanga.protect]] 
 
-### #is_/same_as :: [Shinyanga.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.private|Shinyanga.private]] 
 
-### #is_/same_as :: [Shinyanga.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.personal|Shinyanga.personal]] 
 
-### #is_/same_as :: [Shinyanga.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Shinyanga.secret|Shinyanga.secret]] 
 

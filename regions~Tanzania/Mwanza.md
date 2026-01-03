@@ -40,17 +40,17 @@ markerFolder: ./Mwanza/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mwanza](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza|Mwanza]] 
 
-### #is_/same_as :: [Mwanza.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.public|Mwanza.public]] 
 
-### #is_/same_as :: [Mwanza.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.internal|Mwanza.internal]] 
 
-### #is_/same_as :: [Mwanza.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.protect|Mwanza.protect]] 
 
-### #is_/same_as :: [Mwanza.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.private|Mwanza.private]] 
 
-### #is_/same_as :: [Mwanza.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.personal|Mwanza.personal]] 
 
-### #is_/same_as :: [Mwanza.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Mwanza.secret|Mwanza.secret]] 
 

@@ -60,3 +60,20 @@ coordinate_location: Point(39.54529 -5.64332)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zanzibar%20Archipelago) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago|Zanzibar_Archipelago]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago.public|Zanzibar_Archipelago.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago.internal|Zanzibar_Archipelago.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago.protect|Zanzibar_Archipelago.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago.private|Zanzibar_Archipelago.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago.personal|Zanzibar_Archipelago.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago.secret|Zanzibar_Archipelago.secret]] 
+

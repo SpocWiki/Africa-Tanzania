@@ -40,17 +40,17 @@ markerFolder: ./Kagera/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kagera](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera|Kagera]] 
 
-### #is_/same_as :: [Kagera.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.public|Kagera.public]] 
 
-### #is_/same_as :: [Kagera.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.internal|Kagera.internal]] 
 
-### #is_/same_as :: [Kagera.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.protect|Kagera.protect]] 
 
-### #is_/same_as :: [Kagera.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.private|Kagera.private]] 
 
-### #is_/same_as :: [Kagera.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.personal|Kagera.personal]] 
 
-### #is_/same_as :: [Kagera.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kagera.secret|Kagera.secret]] 
 

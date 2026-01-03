@@ -40,17 +40,17 @@ markerFolder: ./Kaskazini-Unguja/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaskazini-Unguja](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja|Kaskazini-Unguja]] 
 
-### #is_/same_as :: [Kaskazini-Unguja.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.public|Kaskazini-Unguja.public]] 
 
-### #is_/same_as :: [Kaskazini-Unguja.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.internal|Kaskazini-Unguja.internal]] 
 
-### #is_/same_as :: [Kaskazini-Unguja.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.protect|Kaskazini-Unguja.protect]] 
 
-### #is_/same_as :: [Kaskazini-Unguja.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.private|Kaskazini-Unguja.private]] 
 
-### #is_/same_as :: [Kaskazini-Unguja.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.personal|Kaskazini-Unguja.personal]] 
 
-### #is_/same_as :: [Kaskazini-Unguja.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Unguja.secret|Kaskazini-Unguja.secret]] 
 

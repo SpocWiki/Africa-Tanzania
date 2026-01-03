@@ -49,3 +49,20 @@ IUCN_protected_areas_category: http://www.wikidata.org/.well-known/genid/1549e65
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ngorongoro%20Conservation%20Area) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha/counties~Arusha/Ngorongoro/Ngorongoro_Conservation_Area|Ngorongoro_Conservation_Area]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha/counties~Arusha/Ngorongoro/Ngorongoro_Conservation_Area.public|Ngorongoro_Conservation_Area.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha/counties~Arusha/Ngorongoro/Ngorongoro_Conservation_Area.internal|Ngorongoro_Conservation_Area.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha/counties~Arusha/Ngorongoro/Ngorongoro_Conservation_Area.protect|Ngorongoro_Conservation_Area.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha/counties~Arusha/Ngorongoro/Ngorongoro_Conservation_Area.private|Ngorongoro_Conservation_Area.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha/counties~Arusha/Ngorongoro/Ngorongoro_Conservation_Area.personal|Ngorongoro_Conservation_Area.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha/counties~Arusha/Ngorongoro/Ngorongoro_Conservation_Area.secret|Ngorongoro_Conservation_Area.secret]] 
+

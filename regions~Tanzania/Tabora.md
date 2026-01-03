@@ -40,17 +40,17 @@ markerFolder: ./Tabora/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tabora](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora|Tabora]] 
 
-### #is_/same_as :: [Tabora.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.public|Tabora.public]] 
 
-### #is_/same_as :: [Tabora.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.internal|Tabora.internal]] 
 
-### #is_/same_as :: [Tabora.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.protect|Tabora.protect]] 
 
-### #is_/same_as :: [Tabora.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.private|Tabora.private]] 
 
-### #is_/same_as :: [Tabora.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.personal|Tabora.personal]] 
 
-### #is_/same_as :: [Tabora.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Tabora.secret|Tabora.secret]] 
 

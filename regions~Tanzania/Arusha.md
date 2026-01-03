@@ -40,17 +40,17 @@ markerFolder: ./Arusha/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arusha](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha|Arusha]] 
 
-### #is_/same_as :: [Arusha.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.public|Arusha.public]] 
 
-### #is_/same_as :: [Arusha.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.internal|Arusha.internal]] 
 
-### #is_/same_as :: [Arusha.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.protect|Arusha.protect]] 
 
-### #is_/same_as :: [Arusha.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.private|Arusha.private]] 
 
-### #is_/same_as :: [Arusha.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.personal|Arusha.personal]] 
 
-### #is_/same_as :: [Arusha.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Arusha.secret|Arusha.secret]] 
 

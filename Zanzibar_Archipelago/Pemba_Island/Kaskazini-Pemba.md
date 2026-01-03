@@ -40,17 +40,17 @@ markerFolder: ./Kaskazini-Pemba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kaskazini-Pemba](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Pemba_Island/Kaskazini-Pemba|Kaskazini-Pemba]] 
 
-### #is_/same_as :: [Kaskazini-Pemba.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Pemba_Island/Kaskazini-Pemba.public|Kaskazini-Pemba.public]] 
 
-### #is_/same_as :: [Kaskazini-Pemba.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Pemba_Island/Kaskazini-Pemba.internal|Kaskazini-Pemba.internal]] 
 
-### #is_/same_as :: [Kaskazini-Pemba.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Pemba_Island/Kaskazini-Pemba.protect|Kaskazini-Pemba.protect]] 
 
-### #is_/same_as :: [Kaskazini-Pemba.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Pemba_Island/Kaskazini-Pemba.private|Kaskazini-Pemba.private]] 
 
-### #is_/same_as :: [Kaskazini-Pemba.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Pemba_Island/Kaskazini-Pemba.personal|Kaskazini-Pemba.personal]] 
 
-### #is_/same_as :: [Kaskazini-Pemba.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kaskazini-Pemba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Pemba_Island/Kaskazini-Pemba.secret|Kaskazini-Pemba.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Simiyu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Simiyu](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu|Simiyu]] 
 
-### #is_/same_as :: [Simiyu.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.public|Simiyu.public]] 
 
-### #is_/same_as :: [Simiyu.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.internal|Simiyu.internal]] 
 
-### #is_/same_as :: [Simiyu.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.protect|Simiyu.protect]] 
 
-### #is_/same_as :: [Simiyu.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.private|Simiyu.private]] 
 
-### #is_/same_as :: [Simiyu.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.personal|Simiyu.personal]] 
 
-### #is_/same_as :: [Simiyu.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Simiyu.secret|Simiyu.secret]] 
 

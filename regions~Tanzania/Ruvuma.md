@@ -40,17 +40,17 @@ markerFolder: ./Ruvuma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruvuma](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma|Ruvuma]] 
 
-### #is_/same_as :: [Ruvuma.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.public|Ruvuma.public]] 
 
-### #is_/same_as :: [Ruvuma.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.internal|Ruvuma.internal]] 
 
-### #is_/same_as :: [Ruvuma.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.protect|Ruvuma.protect]] 
 
-### #is_/same_as :: [Ruvuma.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.private|Ruvuma.private]] 
 
-### #is_/same_as :: [Ruvuma.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.personal|Ruvuma.personal]] 
 
-### #is_/same_as :: [Ruvuma.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Ruvuma.secret|Ruvuma.secret]] 
 

@@ -59,3 +59,20 @@ inception: 1922-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Selous%20Game%20Reserve) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro/Selous_Game_Reserve|Selous_Game_Reserve]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro/Selous_Game_Reserve.public|Selous_Game_Reserve.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro/Selous_Game_Reserve.internal|Selous_Game_Reserve.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro/Selous_Game_Reserve.protect|Selous_Game_Reserve.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro/Selous_Game_Reserve.private|Selous_Game_Reserve.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro/Selous_Game_Reserve.personal|Selous_Game_Reserve.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Morogoro/Selous_Game_Reserve.secret|Selous_Game_Reserve.secret]] 
+

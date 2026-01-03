@@ -36,3 +36,19 @@ Commons_category: Mafia Island
 > [Wikipedia](https://en.wikipedia.org/wiki/Mafia%20Island) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Mafia_Island|Mafia_Island]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Mafia_Island.public|Mafia_Island.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Mafia_Island.internal|Mafia_Island.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Mafia_Island.protect|Mafia_Island.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Mafia_Island.private|Mafia_Island.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Mafia_Island.personal|Mafia_Island.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/Zanzibar_Archipelago/Mafia_Island.secret|Mafia_Island.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Dodoma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dodoma](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma|Dodoma]] 
 
-### #is_/same_as :: [Dodoma.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.public|Dodoma.public]] 
 
-### #is_/same_as :: [Dodoma.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.internal|Dodoma.internal]] 
 
-### #is_/same_as :: [Dodoma.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.protect|Dodoma.protect]] 
 
-### #is_/same_as :: [Dodoma.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.private|Dodoma.private]] 
 
-### #is_/same_as :: [Dodoma.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.personal|Dodoma.personal]] 
 
-### #is_/same_as :: [Dodoma.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Dodoma.secret|Dodoma.secret]] 
 

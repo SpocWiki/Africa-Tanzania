@@ -40,17 +40,17 @@ markerFolder: ./Kigoma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kigoma](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma|Kigoma]] 
 
-### #is_/same_as :: [Kigoma.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.public|Kigoma.public]] 
 
-### #is_/same_as :: [Kigoma.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.internal|Kigoma.internal]] 
 
-### #is_/same_as :: [Kigoma.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.protect|Kigoma.protect]] 
 
-### #is_/same_as :: [Kigoma.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.private|Kigoma.private]] 
 
-### #is_/same_as :: [Kigoma.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.personal|Kigoma.personal]] 
 
-### #is_/same_as :: [Kigoma.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/regions~Tanzania/Kigoma.secret|Kigoma.secret]] 
 

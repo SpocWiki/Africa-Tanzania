@@ -51,3 +51,20 @@ inception: 2020-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serengeti%20National%20Park) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania/Serengeti_National_Park|Serengeti_National_Park]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanzania/Serengeti_National_Park.public|Serengeti_National_Park.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanzania/Serengeti_National_Park.internal|Serengeti_National_Park.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanzania/Serengeti_National_Park.protect|Serengeti_National_Park.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanzania/Serengeti_National_Park.private|Serengeti_National_Park.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanzania/Serengeti_National_Park.personal|Serengeti_National_Park.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanzania/Serengeti_National_Park.secret|Serengeti_National_Park.secret]] 
+
