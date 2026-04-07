@@ -2,21 +2,21 @@
 aliases:
 has_id_wikidata: Q11812902
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Mara_Region,458406]]"
-  - "[[_Standards/WikiData/WD~Simiyu_Region,2787568]]"
+  - "[[_Standards/WikiData/WD~Mara_Region,458406|WD~Mara_Region,458406]]"
+  - "[[_Standards/WikiData/WD~Simiyu_Region,2787568|WD~Simiyu_Region,2787568]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~transboundary_protected_area,955236]]"
-different_from: "[[_Standards/WikiData/WD~Serengeti,4991540]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Serengeti,4991540]]"
-operator: "[[_Standards/WikiData/WD~Tanzania_National_Parks,7684128]]"
-maintained_by: "[[_Standards/WikiData/WD~Tanzania_National_Parks,7684128]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
-World_Heritage_criteria: "[[_Standards/WikiData/WD~(vii),23038981]]"
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~transboundary_protected_area,955236|WD~transboundary_protected_area,955236]]"
+different_from: "[[_Standards/WikiData/WD~Serengeti,4991540|WD~Serengeti,4991540]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Serengeti,4991540|WD~Serengeti,4991540]]"
+operator: "[[_Standards/WikiData/WD~Tanzania_National_Parks,7684128|WD~Tanzania_National_Parks,7684128]]"
+maintained_by: "[[_Standards/WikiData/WD~Tanzania_National_Parks,7684128|WD~Tanzania_National_Parks,7684128]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628|WD~IUCN_category_II_National_Park,14545628]]"
+World_Heritage_criteria: "[[_Standards/WikiData/WD~(vii),23038981|WD~(vii),23038981]]"
 coordinate_location: Point(34.566666666 -2.332777777)
-location: "[[_Standards/WikiData/WD~Tanzania,924]]"
-country: "[[_Standards/WikiData/WD~Tanzania,924]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+location: "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+country: "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 area: 1476300
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Serengeti-Landscape-2012.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Serengeti%20sunset.jpg

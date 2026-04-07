@@ -4,14 +4,14 @@ has_id_wikidata: Q2268839
 location: [-9.0, 37.4 ]
 coordinate_location: Point(37.4 -9.0)
 significant_event:
-  - "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
-  - "[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lindi_Region,309339]]"
-instance_of: "[[_Standards/WikiData/WD~game_reserve,1714375]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_IV_Habitat_Species_Management_Area,14545639]]"
-World_Heritage_criteria: "[[_Standards/WikiData/WD~(ix),23038985]]"
-country: "[[_Standards/WikiData/WD~Tanzania,924]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+  - "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384|WD~list_of_World_Heritage_in_Danger,222384]]"
+  - "[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318|WD~UNESCO_World_Heritage_Site_record_modification,29778318]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lindi_Region,309339|WD~Lindi_Region,309339]]"
+instance_of: "[[_Standards/WikiData/WD~game_reserve,1714375|WD~game_reserve,1714375]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_IV_Habitat_Species_Management_Area,14545639|WD~IUCN_category_IV_Habitat_Species_Management_Area,14545639]]"
+World_Heritage_criteria: "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
+country: "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 area:
   - 55000
   - 5120000

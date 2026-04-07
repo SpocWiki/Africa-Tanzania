@@ -4,19 +4,19 @@ aliases:
   - Chole Shamba
   - Kisiwa cha Mafia
 has_id_wikidata: Q713391
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Pwani_Region,458412]]"
-part_of: "[[_Standards/WikiData/WD~Zanzibar_Archipelago,706541]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Pwani_Region,458412|WD~Pwani_Region,458412]]"
+part_of: "[[_Standards/WikiData/WD~Zanzibar_Archipelago,706541|WD~Zanzibar_Archipelago,706541]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-country: "[[_Standards/WikiData/WD~Tanzania,924]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+country: "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442|WD~island,23442]]"
 width: 17
 length: 49
 area: 435
-sport: "[[_Standards/WikiData/WD~water_sport,61065]]"
+sport: "[[_Standards/WikiData/WD~water_sport,61065|WD~water_sport,61065]]"
 population: 40801
 coordinate_location: Point(39.783333333 -7.85)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mafia%20Island%20%2851554991378%29.jpg
@@ -27,7 +27,7 @@ Commons_category: Mafia Island
 
 # [[Mafia_Island]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mafia_Island,713391]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Mafia_Island,713391|WD~Mafia_Island,713391]] 
 
 ## #has_/text_of_/abstract 
 

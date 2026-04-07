@@ -1,19 +1,19 @@
 ---
 aliases:
 has_id_wikidata: Q1217726
-significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
-location: "[[_Standards/WikiData/WD~Arusha_Region,329261]]"
-instance_of: "[[_Standards/WikiData/WD~protected_area,473972]]"
-named_after: "[[_Standards/WikiData/WD~Ngorongoro_Crater,3002224]]"
-authority: "[[_Standards/WikiData/WD~Tanzania_National_Parks_Authority,7684128]]"
+significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384|WD~list_of_World_Heritage_in_Danger,222384]]"
+location: "[[_Standards/WikiData/WD~Arusha_Region,329261|WD~Arusha_Region,329261]]"
+instance_of: "[[_Standards/WikiData/WD~protected_area,473972|WD~protected_area,473972]]"
+named_after: "[[_Standards/WikiData/WD~Ngorongoro_Crater,3002224|WD~Ngorongoro_Crater,3002224]]"
+authority: "[[_Standards/WikiData/WD~Tanzania_National_Parks_Authority,7684128|WD~Tanzania_National_Parks_Authority,7684128]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(viii),23038983]]"
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
-country: "[[_Standards/WikiData/WD~Tanzania,924]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Arusha,4301]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+  - "[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(viii),23038983|WD~(viii),23038983]]"
+  - "[[_Standards/WikiData/WD~(vii),23038981|WD~(vii),23038981]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
+country: "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Arusha,4301|WD~Arusha,4301]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 width: 17
 length: 21
 area:
