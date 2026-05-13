@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mara/
 markerFolder: ./Mara/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

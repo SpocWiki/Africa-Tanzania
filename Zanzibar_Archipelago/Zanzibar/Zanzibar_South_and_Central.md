@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zanzibar_South_and_Central/
 markerFolder: ./Zanzibar_South_and_Central/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

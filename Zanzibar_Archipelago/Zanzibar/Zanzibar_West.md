@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zanzibar_West/
 markerFolder: ./Zanzibar_West/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kaskazini-Pemba/
 markerFolder: ./Kaskazini-Pemba/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
