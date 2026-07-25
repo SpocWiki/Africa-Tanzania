@@ -592,7 +592,7 @@ dv_UNTERM_Chinese_Formal: 坦桑尼亚联合共和国
 dv_UNTERM_French_Formal: la République-Unie de Tanzanie
 dv_UNTERM_Russian: Объединенная Республика Танзания
 dv_UNTERM_Russian_Formal: Объединенная Республика Танзания
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -619,7 +619,7 @@ dv_ISO2: TZ
 dv_ISO3: TZA
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+  - '[[../../../../../WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania|Tanzania]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Tanzania.public|Tanzania.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal|Tanzania.internal]]'
@@ -922,16 +922,16 @@ dv_has_:
 dv_has_name_de: Tansania
 dv_Area-Total: 945087
 dv_Area-Land: 883590
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: EAT
 dv_Alcohol-l: 6.8
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 35.7419
 dv_has_place_latitude: -6.17306
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+- '[[../../../../../WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Tanzania|Tanzania]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Tanzania.public|Tanzania.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal|Tanzania.internal]]'
@@ -1018,7 +1018,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Tanzania/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1037,7 +1037,7 @@ markerFile: [[Tanzania]]
 
 ```leaflet
 id: Tanzania_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1066,7 +1066,7 @@ Capital :: [[Dodoma]]
 
 ![[Coat_of_arms_of_Tanzania.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Tanzania.mp3|Anthem-Tanzania.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Tanzania.mp3|Anthem-Tanzania.mp3]]
 
 ![[Flag_of_Tanzania.svg|350]]
 
