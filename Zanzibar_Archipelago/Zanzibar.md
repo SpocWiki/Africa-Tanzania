@@ -353,25 +353,6 @@ markerFile: [[Zanzibar]]
 
 ### #has_/map_/topologic
 
-```leaflet
-id: Zanzibar_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
-bounds:
-  - [-90, -180]
-  - [90, 180]
-width: 100%
-minZoom: 2
-maxZoom: 8
-defaultZoom: 5
-geojsonFolder: ./Zanzibar//
-markerFolder: ./Zanzibar/
-coordinates: [[Zanzibar]]
-markerFile: [[Zanzibar]]
-unit: px
-scale: 1
-darkMode: false
-```
-
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
